@@ -1,0 +1,2 @@
+alert("Document object model")
+
