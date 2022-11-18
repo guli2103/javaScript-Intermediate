@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+
+}
+h1{
+    text-align: center;
+    margin-top: 200px;
+}
+.b1{
+    margin-left: 400px;
+}
+.b2{
+    margin-left: 500px;
+}
+.b3{
+    margin-left: 720px;
+}
